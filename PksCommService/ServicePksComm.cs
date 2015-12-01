@@ -14,6 +14,8 @@ namespace PksCommService
     {
         public ServicePksComm()
         {
+
+
             InitializeComponent();
         }
 
